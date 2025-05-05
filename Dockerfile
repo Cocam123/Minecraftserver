@@ -5,4 +5,4 @@ RUN wget -O fabric-server.jar https://meta.fabricmc.net/v2/versions/loader/1.20.
 COPY server.properties .
 COPY eula.txt .
 EXPOSE 25565
-CMD ["java", "-Xmx400M", "-Xms400M", "-jar", "fabric-server.jar", "nogui"]
+CMD ["java", "-Xmx350M", "-Xms350M", "-jar", "fabric-server.jar", "nogui"]
