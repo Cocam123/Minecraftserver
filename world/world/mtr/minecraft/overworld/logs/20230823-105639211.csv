@@ -1,0 +1,6 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-08-23T11:04:29.133+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-448, 80, 669)","EDIT","{
+  ""sign_length0"": ""ARROW_UP""
+}","{
+  ""sign_length0"": ""ARROW_UP_RIGHT""
+}"

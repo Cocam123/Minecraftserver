@@ -1,0 +1,11 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-09-07T11:01:52.418+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.data.Rail","","","(-498, 64, 4115)
+(-498, 64, 4133)","CREATE","{}","{
+  ""type"": ""OBSIDIAN"",
+  ""one_way"": true
+}"
+"2023-09-07T11:01:54.123+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.data.Rail","","","(-498, 64, 4115)
+(-498, 65, 4113)","CREATE","{}","{
+  ""type"": ""OBSIDIAN"",
+  ""one_way"": true
+}"

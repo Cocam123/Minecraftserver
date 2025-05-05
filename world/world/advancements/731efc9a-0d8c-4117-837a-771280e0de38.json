@@ -1,0 +1,101 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-06-21 12:55:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-06-21 12:55:52 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-06-21 12:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-06-21 12:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2023-06-21 12:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-06-21 13:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-06-21 13:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2023-06-21 13:21:53 +0000",
+      "minecraft:dark_forest": "2023-06-21 13:22:15 +0000",
+      "minecraft:river": "2023-06-21 13:00:59 +0000",
+      "minecraft:forest": "2023-06-21 12:55:53 +0000",
+      "minecraft:windswept_gravelly_hills": "2023-06-21 13:22:07 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2023-06-21 12:55:53 +0000",
+      "village_savanna": "2023-06-21 12:55:53 +0000",
+      "village_snowy": "2023-06-21 12:55:53 +0000",
+      "village_desert": "2023-06-21 12:55:53 +0000",
+      "village_plains": "2023-06-21 12:55:53 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

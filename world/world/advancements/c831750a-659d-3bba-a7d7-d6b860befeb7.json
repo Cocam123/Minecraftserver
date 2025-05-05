@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2021-04-05 18:25:47 +0000",
+      "minecraft:beach": "2021-04-05 18:23:56 +0000",
+      "minecraft:dark_forest": "2021-04-05 18:24:27 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

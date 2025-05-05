@@ -1,0 +1,29 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-08-26T12:20:11.473+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockRouteSignStandingMetal$TileEntityRouteSignStandingMetal","","","(-2108, 74, 1871)","EDIT","{
+  ""platform_id"": 7263510748444801210
+}","{
+  ""platform_id"": 2777191480595191025
+}"
+"2023-08-26T12:21:44.303+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-2099, 74, 1881)","EDIT","{
+  ""sign_length0"": """",
+  ""sign_length2"": """"
+}","{
+  ""sign_length0"": ""ARROW_DOWN"",
+  ""sign_length2"": ""XRL_2""
+}"
+"2023-08-26T12:21:57.870+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-2099, 74, 1881)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length2"": ""XRL_2"",
+  ""sign_length1"": """"
+}","{
+  ""selected_ids"": [
+    9446536
+  ],
+  ""sign_length2"": """",
+  ""sign_length1"": ""LINE""
+}"
+"2023-08-26T12:22:17.818+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-2103, 74, 1880)","EDIT","{
+  ""sign_length2"": ""TRAINS_FLIPPED""
+}","{
+  ""sign_length2"": ""XRL_2_TRAINS_FLIPPED""
+}"

@@ -1,0 +1,22 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-07-09T21:15:59.165+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockNode","","","(-2089, 72, 1847)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2023-07-09T21:15:59.806+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.block.BlockNode","","","(-2089, 72, 1849)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2023-07-09T21:16:10.682+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.data.Rail","","","(-2094, 71, 1845)
+(-2094, 71, 1891)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2023-07-09T21:16:17.852+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.data.Rail","","","(-2087, 71, 1845)
+(-2087, 71, 1890)","CREATE","{}","{
+  ""type"": ""SIDING"",
+  ""one_way"": false
+}"
+"2023-07-09T21:16:24.090+02:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.data.Rail","","","(-2085, 71, 1845)
+(-2085, 71, 1890)","CREATE","{}","{
+  ""type"": ""SIDING"",
+  ""one_way"": false
+}"

@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-08-09 19:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-08-09 19:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2021-08-09 19:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-09 19:00:19 +0000",
+      "minecraft:river": "2021-08-09 19:01:04 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

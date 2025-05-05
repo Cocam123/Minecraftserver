@@ -1,0 +1,6 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-07-26T11:59:40.529+01:00","Cocam12345","e07e6e16-b0ba-4454-900c-65c7cb28e049","mtr.data.Rail","","","(-2089, 71, 1894)
+(-2094, 71, 1899)","CREATE","{}","{
+  ""type"": ""STONE"",
+  ""one_way"": true
+}"
