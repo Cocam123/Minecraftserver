@@ -7,4 +7,4 @@ COPY server.properties .
 COPY eula.txt .
 COPY mods ./mods
 EXPOSE 25565
-CMD ["java", "-Xmx512M", "-Xms512M", "-jar", "fabric-server.jar", "nogui"]
+CMD ["java", "-Xmx400M", "-Xms400M", "-jar", "fabric-server.jar", "nogui"]
